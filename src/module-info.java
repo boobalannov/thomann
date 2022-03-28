@@ -1,0 +1,2 @@
+module aadhi.java {
+}
